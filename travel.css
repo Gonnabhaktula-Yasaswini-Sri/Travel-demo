@@ -1,0 +1,25 @@
+/*Travel Destination */
+h1, footer{
+    font-size: 40px;
+    background-color: rgb(66, 152, 206);
+    padding: 30px 0px 40px 0px;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: rgb(247, 247, 245);
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.div1{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    margin: 1% 0 1% 10%;
+    padding: 30px;
+    background-color: white;
+    line-height: 1.5;
+}
+h2{
+    color: rgb(66, 152, 206);
+}
+footer {font-size: 20px;}
